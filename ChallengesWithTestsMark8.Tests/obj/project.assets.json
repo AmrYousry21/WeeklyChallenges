@@ -2166,6 +2166,9 @@
       "ChallengesWithTestsMark8/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "xunit": "2.4.0"
+        },
         "compile": {
           "bin/placeholder/ChallengesWithTestsMark8.dll": {}
         },

@@ -17,11 +17,16 @@ C:\Users\amryo\Repos\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\netcore
 C:\Users\amryo\Repos\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.runtimeconfig.dev.json
 C:\Users\amryo\Repos\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.dll
 C:\Users\amryo\Repos\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.pdb
+C:\Users\amryo\Repos\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
+C:\Users\amryo\Repos\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\netcoreapp3.1\xunit.assert.dll
+C:\Users\amryo\Repos\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\netcoreapp3.1\xunit.core.dll
+C:\Users\amryo\Repos\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\netcoreapp3.1\xunit.execution.dotnet.dll
 C:\Users\amryo\Repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.csproj.AssemblyReference.cache
 C:\Users\amryo\Repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\amryo\Repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.AssemblyInfoInputs.cache
 C:\Users\amryo\Repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.AssemblyInfo.cs
 C:\Users\amryo\Repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.csproj.CoreCompileInputs.cache
+C:\Users\amryo\Repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.csproj.CopyComplete
 C:\Users\amryo\Repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.dll
 C:\Users\amryo\Repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.pdb
 C:\Users\amryo\Repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.genruntimeconfig.cache
